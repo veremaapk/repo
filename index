@@ -14,15 +14,15 @@
 <item>
 <title>[COLOR red]HD Cine[/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://veremaspain.hol.es/addon/HDFull.xml</externallink>
-<Thumbnail>http://veremaspain.hol.es/addon/etzwpWF.jpg</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/veremaapk/cine/master/HDFull.xml</externallink>
+<Thumbnail>https://github.com/veremaapk/repo/master/iconos/etzwpWF.jpg</thumbnail>
+<fanart>https://github.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
 </item>
 
 <item>
 <title>[COLOR red]Cine Ticket[/COLOR] </title>
 <link>http://Ignoreme</link>
-<externallink>http://veremaspain.hol.es/addon/presenta.xml</externallink>
+<externallink>https://raw.githubusercontent.com/veremaapk/cine/master/presenta.xml</externallink>
 <thumbnail>http://veremaspain.hol.es/addon/ESsfjmY.png</thumbnail>
 <fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart> 
 </item>
@@ -32,7 +32,7 @@
 <link>http://Ignoreme</link>
 <thumbnail>http://veremaspain.hol.es/addon/aYKmxRv.png</thumbnail>
 <fanart>http://veremaspain.hol.es/addon/peJPGUg.png</fanart>
-<externallink>http://veremaspain.hol.es/addon/hallowen.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/veremaapk/cine/master/hallowen.xml</externallink>	
 </item>
 
 <item>
@@ -57,7 +57,7 @@
 <link>http://Ignoreme</link>
 <thumbnail>http://veremaspain.hol.es/addon/m248iT4.jpg</thumbnail>
 <fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
-<externallink>http://veremaspain.hol.es/addon/eltaquillazo.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/veremaapk/cine/master/eltaquillazo.xml</externallink>	
 </item>
 	
 <item>
@@ -65,7 +65,7 @@
 <link>http://Ignoreme</link>
 <thumbnail>http://veremaspain.hol.es/addon/aKhYlFY.png</thumbnail>
 <fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
-<externallink>http://veremaspain.hol.es/addon/labutaca.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/veremaapk/cine/master.xml</externallink>	
 </item>
 
 
