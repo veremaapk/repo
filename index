@@ -46,9 +46,9 @@
 <item>
 <title>[COLOR red]Cineflix[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://veremaspain.hol.es/addon/2vj3NGE.png</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/iXATBaG.jpg</fanart>
-<externallink>http://veremaspain.hol.es/addon/catoflix.xml</externallink>	
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/2vj3NGE.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/iXATBaG.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/veremaapk/series/master/flix.xml</externallink>	
 </item>
 
 
@@ -86,9 +86,9 @@
 <item>
 <title>[COLOR red]Todo Series[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://veremaspain.hol.es/addon/jDakxfT.png</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
-<externallink>http://veremaspain.hol.es/addon/Seriesac.xml</externallink>	
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/jDakxfT.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/veremaapk/series/master/Seriesac.xml</externallink>	
 </item>
 
 <item>
@@ -111,8 +111,8 @@
 <title>[COLOR red]Anime[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/GrP6Ipl.png</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
-<externallink>http://veremaspain.hol.es/addon/Seriesanime.xml</externallink>	
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/veremaapk/series/master/Seriesanime.xml</externallink>	
 </item>
 	
 <item>
