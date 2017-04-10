@@ -74,9 +74,9 @@
 <item>
 <title>[COLOR red]Mis SAGAS[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://veremaspain.hol.es/addon/el_videoclub.jpg</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/list_640px.jpg</fanart>
-<externallink>http://veremaspain.hol.es/addon/missagas.xml</externallink>	
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/el_videoclub.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/list_640px.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/veremaapk/sagas/missagas.xml</externallink>	
 </item>
 
 
@@ -138,7 +138,7 @@
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.now_music</jsonrpc>
 <thumbnail>http://i.imgur.com/HEXRLwV.png</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
 </item>
 		    
 
@@ -156,7 +156,7 @@
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.elitetorrent/</jsonrpc>
 <thumbnail>http://i.imgur.com/9CUz8Er.png</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
 </item>
 
 
@@ -164,17 +164,17 @@
 <title>[COLOR red]NewPctv1[/COLOR][COLOR blue][I] Addon NewPctv1 Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.newpct1/</jsonrpc>
-<thumbnail>http://veremaspain.hol.es/addon/RYou4Oe.png</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/RYou4Oe.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
 </item>
 
 
 <item>
 <title>[COLOR red]IPTV [/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://veremaspain.hol.es/addon/CmHvoNc.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/CmHvoNc.png</thumbnail>
 <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Philips_PM5544.svg/300px-Philips_PM5544.svg.png</fanart>
-<externallink>http://veremaspain.hol.es/addon/freeiptvlinks.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/veremaapk/iptv/master/freeiptvlinks.xml</externallink>	
 </item>
 
 <item>
@@ -182,22 +182,22 @@
 <link>http://Ignoreme</link>
 <thumbnail>http://i.imgur.com/OMyXAvE.png</thumbnail>
 <fanart>http://i.imgur.com/OMyXAvE.png</fanart>
-<externallink>http://veremaspain.hol.es/addon/mundotv.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/veremaapk/iptv/master/mundotv.xml</externallink>	
 </item>
 
 <item>
 <title>[COLOR red]Canales TV Acestream[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://veremaspain.hol.es/addon/V3klE56.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/V3klE56.png</thumbnail>
 <fanart>http://4.bp.blogspot.com/-rLHvP5fvBHg/Vf0isvJSGhI/AAAAAAAAG1U/DurLKrJ1Y5A/s640/plexus-kodi.jpg</fanart>
-<externallink>http://veremaspain.hol.es/addon/canalesaces.xml</externallink>	
+<externallink>https://raw.githubusercontent.com/veremaapk/iptv/master/canalesaces.xml</externallink>	
 </item>
 
 <item>
 <title>[COLOR red]ArenaVision EZY[/COLOR][COLOR blue][I] Addon ArenaVision EZY Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.arenavisionezy/</jsonrpc>
-<thumbnail>http://veremaspain.hol.es/addon/s0cmHc6.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/s0cmHc6.png</thumbnail>
 <fanart>http://i.imgur.com/hftJKqk.jpg</fanart>
 </item>
 
@@ -205,7 +205,7 @@
 <title>[COLOR red]Deportes a la Carta[/COLOR][COLOR blue][I] Addon Necesario[/I][/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.deportesalacarta/</jsonrpc>
-<thumbnail>http://veremaspain.hol.es/addon/CXrBGnc.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/CXrBGnc.png</thumbnail>
 <fanart>http://i.imgur.com/QXtE7xr.jpg</fanart>
 </item>
 
