@@ -118,18 +118,18 @@
 <item>
 <title>[COLOR red]Infantil[/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://veremaspain.hol.es/addon/Infantiles.xml</externallink>
-<thumbnail>http://veremaspain.hol.es/addon/7voKiV1.jpg</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/veremaapk/infantil/master/Infantiles.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/7voKiV1.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
 </item> 
 
 
 <item>
 <title>[COLOR red]Peliculas Infantiles[/COLOR]</title>
 <link>http://Ignoreme</link>
-<externallink>http://veremaspain.hol.es/addon/Peliculasinfantiles.xml</externallink>
-<thumbnail>http://veremaspain.hol.es/addon/RfiT087.jpg</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/veremaapk/infantil/master/Peliculasinfantiles.xml</externallink>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/RfiT087.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
 </item> 
 
 
