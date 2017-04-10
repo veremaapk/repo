@@ -2,128 +2,137 @@
 
 
 
+<item>
+<title>                                                    [COLOR orange][B]Verema[/B][/COLOR]   </title>
+<link>$doregex[openDialog]</link>
+<thumbnail>http://?</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
+<externallink>http://tecnotv.info/kodi/pelis1.xml</externallink>
+</item>
 
-<item>  
-    <title>                  [COLOR lime]    FUNCIONALES POR DIAS      [/COLOR]</title>
-     <link>_</link><thumbnail>https://drive.google.com/uc?export=download&confirm=no_antivirus&id=0B-TC2d575-79RGFXcWR1b0FrNjQ</thumbnail>
-                  <fanart>https://download.inevio.com/file/Ue2P6Pyt</fanart>
-     </item> 
+<item>
+<title>               [COLOR lightslategray]                           Actualizacion: [COLOR slategray][B]10[/B][/COLOR]/04/17[/COLOR] </title>
+<link>$doregex[openDialog]</link>
+</thumbnail><fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
+</item>
+
+
 
  <item>
-        <title>[COLOR blue]FREE + 1  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 1  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/KSgVVMCC</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 2 [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 2 [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/KEXhf10Y</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 3  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 3  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/rUGXK6mT</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 4  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 4  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/R3ENNdf8</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 5  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 5  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/D0A9GUq9</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 6  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 6  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/EfcxJ55V</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 7  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 7  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/vSuRBk50</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 8  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 8  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/ysHqaGhH</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 9  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 9  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/HnabWsAc</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 10  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 10  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/ZHEt2q0a</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 11  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 11  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/zyXyUaiC</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 12  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 12  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/fyYy8EKT</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 13  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 13  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/XV6RY3nT</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
 
  <item>
-        <title>[COLOR blue]FREE + 14  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 14  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/8fTvsq9G</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
  <item>
-        <title>[COLOR blue]FREE + 15  [/COLOR]</title>
+        <title>[COLOR orange]VeremaTv 15  [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>https://pastebin.com/raw/mxUqWsbb</externallink>
-        <thumbnail>https://imagenes.es.sftcdn.net/es/scrn/69658000/69658969/tv-espana-10-535x535.png</thumbnail>
+        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/movistar-logo-2017.jpg</thumbnail>
         <fanart></fanart>
 </item>
