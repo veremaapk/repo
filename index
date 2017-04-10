@@ -23,15 +23,15 @@
 <title>[COLOR red]Cine Ticket[/COLOR] </title>
 <link>http://Ignoreme</link>
 <externallink>https://raw.githubusercontent.com/veremaapk/cine/master/presenta.xml</externallink>
-<thumbnail>http://veremaspain.hol.es/addon/ESsfjmY.png</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart> 
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/ESsfjmY.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart> 
 </item>
  
 <item>
 <title>[COLOR red]Cine Terror[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://veremaspain.hol.es/addon/aYKmxRv.png</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/peJPGUg.png</fanart>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/aYKmxRv.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/peJPGUg.png</fanart>
 <externallink>https://raw.githubusercontent.com/veremaapk/cine/master/hallowen.xml</externallink>	
 </item>
 
@@ -55,16 +55,16 @@
 <item>
 <title>[COLOR red]Sala VIP[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://veremaspain.hol.es/addon/m248iT4.jpg</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/m248iT4.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/veremaapk/cine/master/eltaquillazo.xml</externallink>	
 </item>
 	
 <item>
 <title>[COLOR red]Filmoteca[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://veremaspain.hol.es/addon/aKhYlFY.png</thumbnail>
-<fanart>http://veremaspain.hol.es/addon/fanart.jpg</fanart>
+<thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/aKhYlFY.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/veremaapk/repo/master/iconos/fanart.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/veremaapk/cine/master.xml</externallink>	
 </item>
 
