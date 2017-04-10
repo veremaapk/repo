@@ -1,0 +1,82 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<item>
+<title>                                                    [COLOR orange][B]Verema[/B][/COLOR]   </title>
+<link>$doregex[openDialog]</link>
+<thumbnail>http://?</thumbnail>
+<fanart>https://images7.alphacoders.com/320/thumb-1920-320543.jpg</fanart>
+<externallink>http://tecnotv.info/kodi/pelis1.xml</externallink>
+</item>
+
+<item>
+<title>               [COLOR lightslategray]                           Actualizacion: [COLOR slategray][B]6[/B][/COLOR]/04/17[/COLOR] </title>
+<link>$doregex[openDialog]</link>
+</thumbnail><fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
+</item>
+
+<item>  
+<title>   [COLOR lime]fb.com/TecnotvOficial - Telegram @Tecnotv - www.tecnotv.info[/COLOR]</title>
+<link>_</link><thumbnail>http://tecnotv.info/logoss.png</thumbnail>
+<fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
+<externallink>http://tecnotv.info/kodi/deportes.xml</externallink>
+</item>	
+<item>  
+
+<item>
+<title>[COLOR white]*[/COLOR][COLOR white]  [B]Television[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://tecnotv.info/plugin/listas.jpg</thumbnail><fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
+<externallink>http://tecnotv.info/kodi/television.htm</externallink>
+</item>
+
+<item>
+<title>[COLOR white]*[/COLOR][COLOR white]  [B]Peliculas[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://tecnotv.info/plugin/peliculas.jpg</thumbnail><fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
+<externallink>http://tecnotv.info/kodi/peliculas.htm</externallink>
+</item>
+
+<item>
+<title>[COLOR white]*[/COLOR][COLOR white]  [B]Series[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://tecnotv.info/plugin/listas.jpg</thumbnail><fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
+<externallink>http://tecnotv.info/kodi/series.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR white]*[/COLOR][COLOR white]  [B]Deportes[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://tecnotv.info/plugin/peliculas.jpg</thumbnail><fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
+<externallink>http://tecnotv.info/kodi/deportes.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR white]*[/COLOR][COLOR white]  [B]Documentales[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://tecnotv.info/plugin/listas.jpg</thumbnail><fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
+<externallink>https://www.dropbox.com/s/q8w4hva4mx3z0zq/indice%20youtube.xml?dl=1</externallink>
+</item>
+
+<item>
+<title>[COLOR white]-[/COLOR][COLOR red]  [B]Addon[/COLOR] [COLOR white]Mexflix[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://www.dropbox.com/s/vojnf1bfe4yn425/mexflixLIST1.png?dl=1</thumbnail><fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
+<externallink>https://dl.dropboxusercontent.com/s/czitah7nid5p81j/masterlink24.xml?dl=1</externallink>
+</item>
+
+<item>
+<title>[COLOR white]-[/COLOR][COLOR red]  [B]Addon[/COLOR] [COLOR white]SrRegio[/B][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>https://1.bp.blogspot.com/-sx3NIAdJ1Hk/WI7vbG6C0tI/AAAAAAAAAMo/v8VZi9cjc7IeO6ASkh383Uu0uujP4wx5wCLcB/s1600/icon.png</thumbnail><fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
+<externallink>http://srregio.com/Addon/Menus/MenuIndex.txt</externallink>
+</item>
+
+<item>
+<title>[COLOR white]- [COLOR red] [B]Addon[/B][/COLOR] [COLOR white][B]Tecnotv[/COLOR] [COLOR blue]Kids[/COLOR][/B]</title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/NuXqb1f.png</thumbnail><fanart>http://tecnotv.info/plugin/fanart.jpg</fanart>
+<externallink>http://tecnotv.info/kids</externallink>
+</item>
+
+
+
+</div>
+</body> 
+</html>
+
+
+
