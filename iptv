@@ -161,15 +161,9 @@
         <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
         <fanart></fanart>
 </item>
+
 <item>
-<title>[COLOR white]•IPTV 12 [/COLOR]     [COLOR lime] NOVEDAD           [/COLOR]     [COLOR gold] [/COLOR]</title>
-        <link>http://Ignoreme</link>
-		<externallink>http://entreunosyceros.hol.es/idoK/selanaC/sodavirp/movistar.m3u</externallink>
-        <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
-        <fanart></fanart>
-</item>
-<item>
-<title>[COLOR white]•IPTV 13   [/COLOR]   [COLOR lime]Acestream   Addon Deportesalacarta Necesario  NOVEDAD           [/COLOR]     [COLOR gold] [/COLOR]</title>
+<title>[COLOR white]•IPTV 12   [/COLOR]   [COLOR lime]Acestream   Addon Deportesalacarta Necesario  NOVEDAD           [/COLOR]     [COLOR gold] [/COLOR]</title>
 <link>http://Ignoreme</link>
 <jsonrpc>plugin://plugin.video.deportesalacarta/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogImRlcG9ydCIsIAogICAgImNoYW5uZWwiOiAicHJpdmF0ZWhkIiwgCiAgICAiZmFuYXJ0IjogIiIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAibGFuZ3VhZ2UiOiAiZXMiLCAKICAgICJ0aHVtYm5haWwiOiAiaHR0cDovL2kuaW1ndXIuY29tL2s2cWpBMFcucG5nIiwgCiAgICAidGl0bGUiOiAiUHJpdmF0ZUhEIiwgCiAgICAidG90YWxJdGVtcyI6IDAsIAogICAgInZpZXdtb2RlIjogImxpc3QiCn0%3d</jsonrpc>
 <thumbnail>http://i.imgur.com/sgPiapY.jpg?w=240</thumbnail>
@@ -177,29 +171,9 @@
 </item>
 
 <tem>
-<title>[COLOR white]•IPTV 14  [/COLOR]   [COLOR lime]           [/COLOR]     [COLOR gold] [/COLOR]</title>
+<title>[COLOR white]•IPTV 13 [/COLOR]   [COLOR lime]           [/COLOR]     [COLOR gold] [/COLOR]</title>
         <link>http://Ignoreme</link>
 		<externallink>http://pastebin.com/raw/4t4QtNeH</externallink>
         <thumbnail>https://raw.githubusercontent.com/veremaapk/repo/master/icon.png</thumbnail>
         <fanart></fanart>
-</item>
-<item>
-
-
-<tem>
-<title>[COLOR white]ONDA CADIZ[COLOR gold] (CARNAVALES DE CADIZ  )[/COLOR] </title>
-<link>$doregex[m3u8]</link>
-<regex><name>getLink</name>
-<expres><![CDATA[iframe id=".*?src="(.*?)"]]></expres>
-<page>http://tv.ocadizdigital.es/tv/directo</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<regex><name>m3u8</name>
-<expres><![CDATA[m3u8_url":"(.*?)"]]></expres>
-<page>$doregex[getLink]</page>
-<referer></referer>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://tv.ocadizdigital.es/sites/all/themes/ltqq/images/cabecera-oc/icono-home.png</thumbnail>
 </item>
